@@ -1,0 +1,9 @@
+- name: Starti
+  href: index.md
+- name: Artikujt
+  href: articles/
+  homepage: articles/intro.md
+- name: API Dokumentimet
+  href: api/
+- name: TJERA
+  href: tapi/

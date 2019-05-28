@@ -1,0 +1,28 @@
+### YamlMime:ManagedReference
+items:
+- uid: HashGenerationFromEncryption
+  commentId: N:HashGenerationFromEncryption
+  id: HashGenerationFromEncryption
+  children:
+  - HashGenerationFromEncryption.Form1
+  - HashGenerationFromEncryption.StringCipher
+  langs:
+  - csharp
+  - vb
+  name: HashGenerationFromEncryption
+  nameWithType: HashGenerationFromEncryption
+  fullName: HashGenerationFromEncryption
+  type: Namespace
+  assemblies:
+  - HashGenerationFromEncryption
+references:
+- uid: HashGenerationFromEncryption.Form1
+  commentId: T:HashGenerationFromEncryption.Form1
+  name: Form1
+  nameWithType: Form1
+  fullName: HashGenerationFromEncryption.Form1
+- uid: HashGenerationFromEncryption.StringCipher
+  commentId: T:HashGenerationFromEncryption.StringCipher
+  name: StringCipher
+  nameWithType: StringCipher
+  fullName: HashGenerationFromEncryption.StringCipher

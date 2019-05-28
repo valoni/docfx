@@ -1,0 +1,73 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: HashGenerationFromEncryption
+  name: HashGenerationFromEncryption
+  href: api/HashGenerationFromEncryption.html
+  commentId: N:HashGenerationFromEncryption
+  fullName: HashGenerationFromEncryption
+  nameWithType: HashGenerationFromEncryption
+- uid: HashGenerationFromEncryption.Form1
+  name: Form1
+  href: api/HashGenerationFromEncryption.Form1.html
+  commentId: T:HashGenerationFromEncryption.Form1
+  fullName: HashGenerationFromEncryption.Form1
+  nameWithType: Form1
+- uid: HashGenerationFromEncryption.Form1.#ctor
+  name: Form1()
+  href: api/HashGenerationFromEncryption.Form1.html#HashGenerationFromEncryption_Form1__ctor
+  commentId: M:HashGenerationFromEncryption.Form1.#ctor
+  fullName: HashGenerationFromEncryption.Form1.Form1()
+  nameWithType: Form1.Form1()
+- uid: HashGenerationFromEncryption.Form1.#ctor*
+  name: Form1
+  href: api/HashGenerationFromEncryption.Form1.html#HashGenerationFromEncryption_Form1__ctor_
+  commentId: Overload:HashGenerationFromEncryption.Form1.#ctor
+  isSpec: "True"
+  fullName: HashGenerationFromEncryption.Form1.Form1
+  nameWithType: Form1.Form1
+- uid: HashGenerationFromEncryption.Form1.Dispose(System.Boolean)
+  name: Dispose(Boolean)
+  href: api/HashGenerationFromEncryption.Form1.html#HashGenerationFromEncryption_Form1_Dispose_System_Boolean_
+  commentId: M:HashGenerationFromEncryption.Form1.Dispose(System.Boolean)
+  fullName: HashGenerationFromEncryption.Form1.Dispose(System.Boolean)
+  nameWithType: Form1.Dispose(Boolean)
+- uid: HashGenerationFromEncryption.Form1.Dispose*
+  name: Dispose
+  href: api/HashGenerationFromEncryption.Form1.html#HashGenerationFromEncryption_Form1_Dispose_
+  commentId: Overload:HashGenerationFromEncryption.Form1.Dispose
+  isSpec: "True"
+  fullName: HashGenerationFromEncryption.Form1.Dispose
+  nameWithType: Form1.Dispose
+- uid: HashGenerationFromEncryption.StringCipher
+  name: StringCipher
+  href: api/HashGenerationFromEncryption.StringCipher.html
+  commentId: T:HashGenerationFromEncryption.StringCipher
+  fullName: HashGenerationFromEncryption.StringCipher
+  nameWithType: StringCipher
+- uid: HashGenerationFromEncryption.StringCipher.Decrypt(System.String,System.String)
+  name: Decrypt(String, String)
+  href: api/HashGenerationFromEncryption.StringCipher.html#HashGenerationFromEncryption_StringCipher_Decrypt_System_String_System_String_
+  commentId: M:HashGenerationFromEncryption.StringCipher.Decrypt(System.String,System.String)
+  fullName: HashGenerationFromEncryption.StringCipher.Decrypt(System.String, System.String)
+  nameWithType: StringCipher.Decrypt(String, String)
+- uid: HashGenerationFromEncryption.StringCipher.Decrypt*
+  name: Decrypt
+  href: api/HashGenerationFromEncryption.StringCipher.html#HashGenerationFromEncryption_StringCipher_Decrypt_
+  commentId: Overload:HashGenerationFromEncryption.StringCipher.Decrypt
+  isSpec: "True"
+  fullName: HashGenerationFromEncryption.StringCipher.Decrypt
+  nameWithType: StringCipher.Decrypt
+- uid: HashGenerationFromEncryption.StringCipher.Encrypt(System.String,System.String)
+  name: Encrypt(String, String)
+  href: api/HashGenerationFromEncryption.StringCipher.html#HashGenerationFromEncryption_StringCipher_Encrypt_System_String_System_String_
+  commentId: M:HashGenerationFromEncryption.StringCipher.Encrypt(System.String,System.String)
+  fullName: HashGenerationFromEncryption.StringCipher.Encrypt(System.String, System.String)
+  nameWithType: StringCipher.Encrypt(String, String)
+- uid: HashGenerationFromEncryption.StringCipher.Encrypt*
+  name: Encrypt
+  href: api/HashGenerationFromEncryption.StringCipher.html#HashGenerationFromEncryption_StringCipher_Encrypt_
+  commentId: Overload:HashGenerationFromEncryption.StringCipher.Encrypt
+  isSpec: "True"
+  fullName: HashGenerationFromEncryption.StringCipher.Encrypt
+  nameWithType: StringCipher.Encrypt
